@@ -26,7 +26,7 @@ Funcionalidades a Modelar
 2) Implementar as classes e interfaces correspondentes em Java(Opcional)
 
 ## Exemplo de Diagrama UML (Mermaid)
-![Exemplo UML](/resources/exemplo_uml.png "Exemplo UML")
+![Exemplo UML](./resources/exemplo_uml.png "Exemplo UML")
 
 ## Intruções
 1) Assista ao vídeo do lançamento do iPhone para entender as funcionalidades principais.
@@ -38,4 +38,4 @@ https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 
 ########################################################################
 ## Diagrama criado
-![Diagrama criado](/resources/modelagem_iphone.drawio.png "Diagrama criado")
+![Diagrama criado](./resources/modelagem_iphone.drawio.png "Diagrama criado")
